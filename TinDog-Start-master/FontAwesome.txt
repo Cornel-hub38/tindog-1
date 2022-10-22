@@ -1,0 +1,51 @@
+<i class="fa-regular fa-circle-check"></i>
+
+<i class="fa-duotone fa-bullseye"></i>
+
+
+<i class="fa-light fa-heart"></i>
+
+======================================
+
+
+
+          <!-- Bootstarp card -2 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <h3>Labrador</h3>
+              </div>
+
+              <div class="card-body">
+                <h2>$49 / mo</h2>
+                <p>Unlimited Matches</p>
+                <p>Unlimited Messages</p>
+                <button type="button">Sign up</button>
+              </div>
+            </div>
+          </div>
+          <!-- Bootstarp card -3 -->
+          <div class="col-lg-4 col-md-12">
+            <div class="card">
+
+              <div class="card-header">
+                <h3>Mastiff</h3>
+              </div>
+
+              <div class="card-body">
+
+                <h2>$99 / mo</h2>
+                <p>Pirority Listing</p>
+                <p>Unlimited Matches</p>
+                <p>Unlimited Messages</p>
+                <p>Unlimited App Usage</p>
+                <button type="button">Sign Up</button>
+              </div>
+
+            </div>
+          </div>
+
+
+
+
+==========================================

@@ -1,0 +1,140 @@
+#title {
+  background-color: #FF4C68;
+  color: #FFF;
+}
+
+#features {
+  margin: 7% 15%;
+  background-color: #FFFFFF;
+  position:relative;
+  z-index: 1;
+}
+
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+/*
+.features {
+  margin: 100px 0;
+} */
+
+/* Navigation bar  */
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight:  bold;
+  color: #11F;
+
+
+}
+
+.nav-item {
+  padding: 0 20px 0 20px;
+}
+
+.nav-link {
+  font-family: 'Montserrat-Light';
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-family: 'Montserrat-black';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  width: 45%;
+}
+
+h3 {
+  font-family: 'Montserrat-Bold';
+  font-size: 1.5rem;
+
+}
+
+h2 {
+  font-family: 'Montserrat-bold';
+  font-size: 3.5rem;
+  line-height: 3rem;
+}
+
+p {
+  color: #AFAFAF;
+}
+
+
+/* Download Buttons */
+.download-button {
+margin:  5% 3% 5% 0;
+}
+
+
+/* Title Image */
+
+.title-image {
+  transform: rotate(30deg);
+  width: 40%;
+  position:relative;
+  left: 30%;
+  bottom: 25%;
+
+
+}
+
+/* Fontawesome circle-check, heart and bullseye */
+
+
+.fc-box {
+  margin-bottom: 1.5rem;
+  color: #FF7481;
+}
+
+  .fc-box:hover {
+    color: #38E54D;
+  }
+
+  .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin:20px;
+    /* position: relative;
+    z-index: 3; */
+  }
+
+  .carousel-item {
+  padding: 7% 10%;
+  }
+
+  .press-logo {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px 20px 0;
+    padding: 0 20px 0 20px;
+  }
+
+  .feature-box {
+    position: relative;
+    z-index: 4;
+  }
+
+  /* Testimonial Section */
+#testimonials {
+
+  text-align:center;
+  background-color: #EF8172;
+  color: #FFF;
+  padding: 7% 15%;
+
+}
+
+#press {
+  background-color: #EF8172;
+  text-align: center;
+  padding-bottom:  3%;
+
+}
